@@ -12,7 +12,7 @@ Source0:        wzh-pdns.pp
 Requires:       bash
 
 %description
-package for docker-distribution
+package for power dns selinux rule, for demo on openshift 4
 
 %prep
 # %setup -q
